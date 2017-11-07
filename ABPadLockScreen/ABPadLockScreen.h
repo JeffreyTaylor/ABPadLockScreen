@@ -25,8 +25,15 @@
 FOUNDATION_EXPORT double ABPadLockScreenVersionNumber;
 FOUNDATION_EXPORT const unsigned char ABPadLockScreenVersionString[];
 
-#import "ABPadLockScreenViewController.h"
-#import "ABPadLockScreenSetupViewController.h"
-#import "ABPadLockScreenView.h"
-#import "ABPadButton.h"
-#import "ABPinSelectionView.h"
+//#import "ABPadLockScreenViewController.h"
+//#import "ABPadLockScreenSetupViewController.h"
+//#import "ABPadLockScreenView.h"
+//#import "ABPadButton.h"
+//#import "ABPinSelectionView.h"
+
+#import <ABPadLockScreen/ABPadLockScreenViewController.h>
+#import <ABPadLockScreen/ABPadLockScreenSetupViewController.h>
+#import <ABPadLockScreen/ABPadLockScreenView.h>
+#import <ABPadLockScreen/ABPadButton.h>
+#import <ABPadLockScreen/ABPinSelectionView.h>
+
